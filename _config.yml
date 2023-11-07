@@ -57,36 +57,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Development Environment
+        title: Production Environment
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  github.com/STARLAB
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/STARLAB1733/starlab-ansible-okd
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Automated Deployment of RedHat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Co-led with Sect Hd to achitect the automated deployment of OKD cluster in Production Environment via Infrastructure as Code (IaC). Resulting in large reudction of time (From at least 8 hours to 1 Hour) needed to deploy a new cluster.
       - layout: top-middle
         title: Staging Environment
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  github.com/STARLAB
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/STARLAB1733/starlab-ansible-okd
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Self-build staging environment using re-purposed baremetal and automated deployment of OKD
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Planned and directed the team to re-purpose existing bare metal servers for the deployment of new OKD clusters. This cost saving staging environment minimally mirrors the production environment. Allowing product teams to easily test out their applications before production. Increases confidence level and user experience when product team launches new releases.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
