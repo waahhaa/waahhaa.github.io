@@ -49,10 +49,10 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Anthony Tan and I'm a DevOps Engineer. I am a passionate DevOps engineer with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing.
-
+skills: |
   I am most skilled in: <mark>Redhat OpenShift</mark> , <mark>Ansible</mark>
 
-content:
+content:1````
   - title: Technical Achievements # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,7 +78,7 @@ content:
       - layout: left
         title: STARLAB
         link: github.com/STARLAB1733
-        # link_text: boringcompany.com
+        # link_text: github.com/STARLAB1733
         sub_title: DevOps Engineer
         caption: November 2021 - Present
         quote: >
@@ -90,9 +90,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Singapore Management University
+        caption: 2016 - 2020
+        sub_title: BSc of Science (Information Systems Management)
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
