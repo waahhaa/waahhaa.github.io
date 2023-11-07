@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, Anthony here and I'm a DevOps Engineer. I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for junior engineers who wishes to learn about the field of DevOps.
+  Hi, Anthony here and I'm a DevOps Engineer. I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for junior engineers who wishes to learn more about the field of DevOps.
 
 content:
   - title: Technical Achievements # Title for the section
@@ -68,7 +68,20 @@ content:
         quote: >
           Automated Deployment of RedHat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment
         description: | # this will include new lines to allow paragraphs
-          Co-led with Sect Hd to architect the automated deployment of OKD cluster in Production Environment via Infrastructure as Code (IaC). Resulting in large reduction of time (From at least 8 hours to 1 hour) needed to deploy a new cluster in the event of failures.
+          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and can bring about several benefits, including scalability, reliability, and automation.
+
+          Key technical areas:
+          - Infrastructure as Code (IaC): Implementing IaC principles using tools like Terraform or Ansible to automate the provisioning and configuration of the underlying infrastructure. This ensures consistency, repeatability, and scalability.
+          - High Availability (HA) Setup: Designing an HA architecture for the OpenShift cluster to ensure that it can withstand hardware or software failures. This often involves setting up multiple master and worker nodes, load balancing, and distributed storage solutions.
+          - Security Hardening: Implementing rigorous security practices to protect the cluster from threats and vulnerabilities. This includes setting up Role-Based Access Control (RBAC), network policies, and integrating with identity and access management systems.
+          - Network Configuration: Configuring the networking components of the cluster, including overlay networks, service meshes, and Ingress controllers, to ensure that applications can communicate efficiently and securely.
+          - Continuous Integration and Continuous Deployment (CI/CD): Integrating OpenShift with CI/CD pipelines to automate the deployment of containerized applications. This allows for rapid and reliable application releases.
+          - Monitoring and Logging: Implementing monitoring and logging solutions like Prometheus, Grafana, and Elasticsearch to gain visibility into the cluster's health and application performance. Setting up alerting mechanisms to detect and respond to issues proactively.
+          - Disaster Recovery: Establishing backup and disaster recovery processes to ensure data integrity and business continuity in case of catastrophic failures.
+          - Rolling Updates and Rollbacks: Implementing strategies for rolling updates and rollbacks of applications to minimize downtime and reduce the impact of potential issues.
+          - Scaling and Load Balancing: Implementing auto-scaling for applications and load balancing to handle varying workloads efficiently.
+          - Documentation and Knowledge Sharing: Maintaining detailed documentation for the entire OpenShift cluster setup and regularly sharing knowledge with the DevOps team to ensure that everyone is well-informed and can manage the cluster effectively.
+
       - layout: top-middle
         title: Staging Environment
         link: github.com/STARLAB
@@ -93,7 +106,8 @@ content:
       My DevOps Certifications are:
       - GIAC Cloud Security Automation (GCSA)
       - Nutanix Certified Professional - Multi-Cloud Infrastructure (NCP-MCI)
-      - RedHat Openshift Administrator
+      - Red Hat Openshift Administrator
+      - Red Hat System Administration
       - ...
 
   - title: Education # Title for the section
