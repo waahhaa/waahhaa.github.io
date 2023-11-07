@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Production Environment
-        link: github.com/sproogen
+        link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
           - title:  github.com/STARLAB
@@ -70,10 +70,10 @@ content:
         quote: >
           Automated Deployment of RedHat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment
         description: | # this will include new lines to allow paragraphs
-          Co-led with Sect Hd to achitect the automated deployment of OKD cluster in Production Environment via Infrastructure as Code (IaC). Resulting in large reudction of time (From at least 8 hours to 1 Hour) needed to deploy a new cluster.
+          Co-led with Sect Hd to architect the automated deployment of OKD cluster in Production Environment via Infrastructure as Code (IaC). Resulting in large reduction of time (From at least 8 hours to 1 hour) needed to deploy a new cluster in the event of failures.
       - layout: top-middle
         title: Staging Environment
-        link: github.com/sproogen
+        link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
           - title:  github.com/STARLAB
@@ -83,9 +83,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Self-build staging environment using re-purposed baremetal and automated deployment of OKD
+          Cost saving, self-build staging environment using re-purposed baremetal and opensource tools.
         description: | # this will include new lines to allow paragraphs
-          Planned and directed the team to re-purpose existing bare metal servers for the deployment of new OKD clusters. This cost saving staging environment minimally mirrors the production environment. Allowing product teams to easily test out their applications before production. Increases confidence level and user experience when product team launches new releases.
+          Planned and directed the team to re-purpose existing bare metal servers for the deployment of new OKD clusters. This cost saving staging environment employs free opensource developer tools and minimally mirrors the production environment. Allowing product teams to easily test out their applications before production. Increases confidence level and user experience when product team launches new releases.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
