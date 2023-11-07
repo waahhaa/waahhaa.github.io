@@ -7,25 +7,25 @@ version: 2
 
 # Personal info
 name: Anthony Tan
-title: DevOps Engineer
+title: DevOps Engineer | STARLAB
 email: tan_537@hotmail.com
 website: waahhaa.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: waahhaa
 github_username:  waahhaa
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: waahhaa
 # flickr_username: jekyll
 instagram_username: waahhaa
-linkedin_username: waahhaa
+linkedin_username: anthonytyt
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: waahhaa
+# youtube_username: waahhaa
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Production Environment
+        title: Deployment of Kubernetes at Scale for Production Environment
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
@@ -66,7 +66,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          1) Automate deployment of RedHat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment 2) Automate manual deployment of app containers via Helm, resulted to huge saving of deployment time.
+          1) Automate deployment at scale of Red Hat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment 
+          2) Automate manual deployment of app containers via Helm Charts, resulted to huge deployment time savings and less human error.
+
         description: | # this will include new lines to allow paragraphs
           OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation.
 
@@ -84,7 +86,7 @@ content:
           - Documentation and Knowledge Sharing: Maintaining detailed documentation for the entire OpenShift cluster setup and regularly sharing knowledge with the DevOps team to ensure that everyone is well-informed and can manage the cluster effectively.
 
       - layout: top-middle
-        title: Staging Environment
+        title: Provisioning DevOps on Openshift using Helm
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
@@ -95,12 +97,20 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Cost saving, self-build staging environment using re-purposed baremetal and opensource tools.
+          Having this "DevOps from a box solution" offer several significant benefits to my organizations, helping them improve their software development and IT operations processes, enhance collaboration between teams, and deliver better products and services
         description: | # this will include new lines to allow paragraphs
-          Planned and directed a group of DevOps Engineer to re-purpose existing bare metal servers for the deployment of new OKD staging cluster. This cost saving staging environment employs free opensource developer tools and minimally mirrors the production environment. Allowing product teams to easily test out their applications before production. Increases confidence level and user experience when product team launches new releases.
+          A complete CI-CD environment DevOps with Cloud Native Pipeline, applying the best practices and using the package manager for Kubernetes, the helm. Ideal is to keep this solution simple so as to easily replicate across different platforms.
+
+          This DevOps environment includes deployment of:
+          - 4 Namespaces, 1 to cicd (infra tools), development, staging and production (app's environments)
+          - OpenShift Pipelines (Tekton) for build the app image in each git commit
+          - OpenShift GitOps (ArgoCD) for deliver the app in OpenShift cluster
+          - Gitea git server for version control and collaborative features
+          - Sonatype Nexus for storing build artifacts
+          - SonarQube for collection and analysis of source code, and provides reports for the code quality of our project
     
       - layout: top-middle
-        title: Development Environment
+        title: Bulding Staging & Development Environment
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
@@ -111,10 +121,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Extending external agencies's development environments to my developers 
+          1) Cost-savings solution to building a new Staging Environment that minimally mirrors the Production Environment
+          2) Extension of external agencies's development environment for my developers 
 
         description: | # this will include new lines to allow paragraphs
-          Regularly provided technical inputs and advice to project management team & engineers. Architect solutions to pipe in external development environment for my developers, allowing them to have access to more developer tools and resources
+          1) The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
+          2) Extension of new external agencies's development environment allows my developers to be exposed to more developer tools and computing resources.
   
   - title: Skill Set & Certification # Title for the section
     layout: text
