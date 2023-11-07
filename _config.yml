@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, Anthony here and I'm a DevOps Engineer. I am a passionate DevOps engineer with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing.
+  Hi, Anthony here and I'm a DevOps Engineer. I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for junior engineers who wishes to learn about the field of DevOps.
 
 content:
   - title: Technical Achievements # Title for the section
@@ -88,13 +88,13 @@ content:
   - title: Skill Set & Certification # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am most skilled in: <mark>Kubernetes</mark> , <mark>Docker</mark> , <mark>OpenShift Container Platform</mark> , <mark>Ansible</mark> , <mark>GitOps</mark> , <mark>Helm</mark> , <mark>Git</mark>
+      I am most skilled in DevOps Tooling such as: <mark>Kubernetes</mark> , <mark>Docker</mark> , <mark>OpenShift Container Platform</mark> , <mark>Ansible</mark> , <mark>ArgoCD</mark> , <mark>Helm</mark> , <mark>Git/tea</mark> , <mark>SonarQube</mark>
       
-      My DevOps certifications are:
+      My DevOps Certifications are:
       - GIAC Cloud Security Automation (GCSA)
       - Nutanix Certified Professional - Multi-Cloud Infrastructure (NCP-MCI)
       - RedHat Openshift Administrator
-      ...
+      - ...
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,12 +106,12 @@ content:
         quote: >
           Established in 2000, SMU's mission is to generate leading-edge research with global impact and to produce broad-based, creative, and entrepreneurial leaders for the knowledge-based economy. SMU's education is known for its highly interactive, collaborative, and project-based approach to learning.
         description: | # this will include new lines to allow paragraphs
-          During my time at SMU, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at SMU, I learnt most of my core skills that have I have taken through my career such as tech-collaboration and working through tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in DevOps Engineering, some of my other interests and hobbies are:
+      Alongside my interests in DevOps, some of my other interests and hobbies are:
       - Camping
       - Gaming
       - Fish-Keeping
