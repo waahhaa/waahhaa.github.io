@@ -111,7 +111,7 @@ content:
           - SonarQube for collection and analysis of source code, and provides reports for the code quality of our project
     
       - layout: top-middle
-        title: Bulding Staging & Development Environment
+        title: Building Staging & Development Environment
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
@@ -127,12 +127,12 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           1) The cost savings solution involves the re-purpose of bare-metal servers. Architecting the design and implementation opensource free DevOps Tooling and container orchestrator such as OKD. The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
-          2) Extension of new external agencies's development environment allows my developers to be exposed to more developer tools and computing resources. In achieving that, I actively participate and contributed as technical consultant to the project management team and on-site engineers
+          2) Extension of new external agency's development environment allows my developers to be exposed to more developer tools and computing resources. In achieving that, I actively participate and contributed as technical consultant to the project management team and on-site engineers
   
   - title: Skill Set & Certification # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am most skilled in DevOps Tooling such as: <mark>Kubernetes</mark> , <mark>Docker</mark> , <mark>OpenShift Container Platform</mark> , <mark>Ansible</mark> , <mark>ArgoCD</mark> , <mark>Helm</mark> , <mark>Git/tea</mark> , <mark>SonarQube</mark>
+      I am most skilled in DevOps Environment & Tooling such as: <mark>Kubernetes</mark> , <mark>Docker</mark> , <mark>OpenShift Container Platform</mark> , <mark>Ansible</mark> , <mark>ArgoCD</mark> , <mark>Helm</mark> , <mark>Git/tea</mark> , <mark>SonarQube</mark>
       
       My DevOps Certifications are:
       - GIAC Cloud Security Automation (GCSA)
@@ -151,7 +151,7 @@ content:
         quote: >
           Established in 2000, SMU's mission is to generate leading-edge research with global impact and to produce broad-based, creative, and entrepreneurial leaders for the knowledge-based economy. SMU's education is known for its highly interactive, collaborative, and project-based approach to learning.
         description: | # this will include new lines to allow paragraphs
-          During my time at SMU, I learnt most of my core skills that have I have taken through my career such as tech-collaboration and working through tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at SMU, I learnt most of my core skills that have I have taken through my career such as tech-collaboration and working through tight deadlines. The comprehensive curriculum integrated technology, business management, and information systems. I've gained a deep understanding of how to effectively design, implement, and manage information systems to support organizations' strategic goals. My coursework included subjects like database management, cybersecurity, project management, and data analysis. Additionally, I honed problem-solving and critical thinking skills, and had the opportunity to work on real-world projects that enhanced my practical knowledge.
 
   - title: A Little More About Me
     layout: text
