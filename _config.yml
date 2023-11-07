@@ -66,17 +66,18 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Automated Deployment of RedHat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment
+          1) Automate deployment of RedHat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment 2) Automate manual deployment of app containers via Helm, resulted to huge saving of deployment time.
         description: | # this will include new lines to allow paragraphs
-          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and can bring about several benefits, including scalability, reliability, and automation.
+          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation.
 
           Key technical areas:
-          - Infrastructure as Code (IaC): Implementing IaC principles using tools like Terraform or Ansible to automate the provisioning and configuration of the underlying infrastructure. This ensures consistency, repeatability, and scalability.
-          - High Availability (HA) Setup: Designing an HA architecture for the OpenShift cluster to ensure that it can withstand hardware or software failures. This often involves setting up multiple master and worker nodes, load balancing, and distributed storage solutions.
+
+          - Infrastructure as Code (IaC): Implementing IaC principles using tools like Ansible to automate the provisioning and configuration of the underlying infrastructure. This ensures consistency, repeatability, and scalability.
+          - High Availability (HA) Setup: Designing an HA architecture for the OpenShift cluster to ensure that it can withstand hardware or software failures. This involves setting up multiple master and worker nodes, load balancing, and distributed storage solutions.
           - Security Hardening: Implementing rigorous security practices to protect the cluster from threats and vulnerabilities. This includes setting up Role-Based Access Control (RBAC), network policies, and integrating with identity and access management systems.
           - Network Configuration: Configuring the networking components of the cluster, including overlay networks, service meshes, and Ingress controllers, to ensure that applications can communicate efficiently and securely.
           - Continuous Integration and Continuous Deployment (CI/CD): Integrating OpenShift with CI/CD pipelines to automate the deployment of containerized applications. This allows for rapid and reliable application releases.
-          - Monitoring and Logging: Implementing monitoring and logging solutions like Prometheus, Grafana, and Elasticsearch to gain visibility into the cluster's health and application performance. Setting up alerting mechanisms to detect and respond to issues proactively.
+          - Monitoring and Logging: Implementing monitoring and logging solutions like Prometheus and Grafana to gain visibility into the cluster's health and application performance. Setting up alerting mechanisms to detect and respond to issues proactively.
           - Disaster Recovery: Establishing backup and disaster recovery processes to ensure data integrity and business continuity in case of catastrophic failures.
           - Rolling Updates and Rollbacks: Implementing strategies for rolling updates and rollbacks of applications to minimize downtime and reduce the impact of potential issues.
           - Scaling and Load Balancing: Implementing auto-scaling for applications and load balancing to handle varying workloads efficiently.
@@ -96,8 +97,25 @@ content:
         quote: >
           Cost saving, self-build staging environment using re-purposed baremetal and opensource tools.
         description: | # this will include new lines to allow paragraphs
-          Planned and directed the team to re-purpose existing bare metal servers for the deployment of new OKD clusters. This cost saving staging environment employs free opensource developer tools and minimally mirrors the production environment. Allowing product teams to easily test out their applications before production. Increases confidence level and user experience when product team launches new releases.
- 
+          Planned and directed a group of DevOps Engineer to re-purpose existing bare metal servers for the deployment of new OKD staging cluster. This cost saving staging environment employs free opensource developer tools and minimally mirrors the production environment. Allowing product teams to easily test out their applications before production. Increases confidence level and user experience when product team launches new releases.
+    
+      - layout: top-middle
+        title: Development Environment
+        link: github.com/STARLAB
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/STARLAB
+            icon: fab fa-github
+            url: https://github.com/STARLAB1733/starlab-ansible-okd
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Extending external agencies's development environments to my developers 
+
+        description: | # this will include new lines to allow paragraphs
+          Regularly provided technical inputs and advice to project management team & engineers. Architect solutions to pipe in external development environment for my developers, allowing them to have access to more developer tools and resources
+  
   - title: Skill Set & Certification # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
