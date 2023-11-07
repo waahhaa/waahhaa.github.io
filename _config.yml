@@ -12,7 +12,7 @@ email: tan_537@hotmail.com
 website: waahhaa.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: waahhaa
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, Anthony here and I'm a DevOps Engineer. I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for junior engineers who wishes to learn more about the field of DevOps.
+  Hello everyone, Anthony here and I'm a DevOps Engineer. I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for junior engineers who wishes to learn more about the field of DevOps.
 
 content:
   - title: Technical Achievements # Title for the section
@@ -66,11 +66,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          1) Automate deployment at scale of Red Hat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment 
+          1) Automate deployment of Red Hat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment 
           2) Automate manual deployment of app containers via Helm Charts, resulted to huge deployment time savings and less human error.
 
         description: | # this will include new lines to allow paragraphs
-          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation.
+          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation to my organization.
 
           Key technical areas:
 
@@ -99,9 +99,10 @@ content:
         quote: >
           Having this "DevOps from a box solution" offer several significant benefits to my organizations, helping them improve their software development and IT operations processes, enhance collaboration between teams, and deliver better products and services
         description: | # this will include new lines to allow paragraphs
-          A complete CI-CD environment DevOps with Cloud Native Pipeline, applying the best practices and using the package manager for Kubernetes, the helm. Ideal is to keep this solution simple so as to easily replicate across different platforms.
+          A complete CI-CD environment DevOps with Cloud Native Pipeline, applying the best practices and using the package manager for Kubernetes, the helm. The ideal is to keep this solution simple so as to easily replicate this DevOps environment across different platforms.
 
           This DevOps environment includes deployment of:
+
           - 4 Namespaces, 1 to cicd (infra tools), development, staging and production (app's environments)
           - OpenShift Pipelines (Tekton) for build the app image in each git commit
           - OpenShift GitOps (ArgoCD) for deliver the app in OpenShift cluster
@@ -125,8 +126,8 @@ content:
           2) Extension of external agencies's development environment for my developers 
 
         description: | # this will include new lines to allow paragraphs
-          1) The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
-          2) Extension of new external agencies's development environment allows my developers to be exposed to more developer tools and computing resources.
+          1) The cost savings solution involves the re-purpose of bare-metal servers. Architecting the design and implementation opensource free DevOps Tooling and container orchestrator such as OKD. The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
+          2) Extension of new external agencies's development environment allows my developers to be exposed to more developer tools and computing resources. In achieving that, I actively participate and contributed as technical consultant to the project management team and on-site engineers
   
   - title: Skill Set & Certification # Title for the section
     layout: text
