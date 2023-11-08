@@ -165,7 +165,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References: [Supervisor] Don Charlton Tan [Colleague] Melvin Tan, Ananda Lye, Dorwin Yang, Clement Chua (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
