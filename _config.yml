@@ -129,7 +129,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           1) The cost savings solution involves the re-purpose of bare-metal servers. Architecting the design and deploying opensource free DevOps Tooling and implementing Container Orchestrator such as OKD. The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
           
-          2) Extension of new external agency's development environment allows my developers to be exposed to more developer tools and computing resources. In achieving that, I actively participate and contributed as technical consultant to the project management team and on-site engineers
+          2) Extension of new external agency's development environment allows my developers to be exposed to more developer tools and computing resources. I actively participate and contributed technical advice to the project management team and on-site engineers, providing valuable insights and recommendation leading to the successful implementation of the new development environment.
   
   - title: Skill Set & Certification # Title for the section
     layout: text
