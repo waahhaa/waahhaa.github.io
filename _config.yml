@@ -164,7 +164,7 @@ content:
       - Fish-Keeping
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 # Footer
-footer_show_references: true
+footer_show_references: false
 references_title: References via TG handler (Supervisor) Don Charlton Tan @doncharltontan (Colleagues) Tan Wei Jian  @dontcallmelvin , Ananda Lye @ananda_lye, Dorwin Yang @Dorwin, Clement Chua @klemmentieff
 
 # Build settings
