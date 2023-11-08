@@ -70,7 +70,7 @@ content:
           2) Automate deployment of app containers via Helm Charts, resulted to huge deployment time savings and less human error.
 
         description: | # this will include new lines to allow paragraphs
-          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation to my organization.
+          OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation for my organization.
 
           Key technical areas:
 
@@ -99,7 +99,7 @@ content:
         quote: >
           Having this "DevOps from a box solution" offer several significant benefits to my organization, helping them improve their software development and IT operations processes, enhance collaboration between teams, and deliver better products and services
         description: | # this will include new lines to allow paragraphs
-          A complete CI-CD environment DevOps with Cloud Native Pipeline, applying the best practices and using the package manager for Kubernetes, the helm. The ideal is to keep this solution simple so as to easily replicate this DevOps environment across different platforms.
+          A complete DevOps environment with Cloud Native CI-CD Pipeline, applying the best practices and using the package manager for Kubernetes, the helm. The ideal is to keep this solution simple so as to easily replicate this DevOps environment across different platforms.
 
           This DevOps environment includes deployment of:
 
@@ -127,7 +127,7 @@ content:
           2) Extension of external agencies's development environment for my developers 
 
         description: | # this will include new lines to allow paragraphs
-          1) The cost savings solution involves the re-purpose of bare-metal servers. Architecting the design and deploying opensource free DevOps Tooling and implementing Container Orchestrator such as OKD. The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
+          1) This cost savings solution involves the re-purpose of bare-metal servers. Architecting the design and deploying opensource free DevOps Tooling and implementing Container Orchestrator such as OKD. The staging environment benefits my developers by providing a safe, realistic, and controlled testing environment where they can validate their code, test new features, collaborate with team members, and prevent issues from reaching the production environment. This leads to higher code quality, fewer production issues, and a smoother development process.
           
           2) Extension of new external agency's development environment allows my developers to be exposed to more developer tools and computing resources. I actively participate and contributed technical advice to the project management team and on-site engineers, providing valuable insights and recommendation leading to the successful implementation of the new development environment.
   
@@ -139,8 +139,8 @@ content:
       My DevOps Certifications are:
       - GIAC Cloud Security Automation (GCSA)
       - Nutanix Certified Professional - Multi-Cloud Infrastructure (NCP-MCI)
-      - Red Hat Openshift Administrator
-      - Red Hat System Administration
+      - Red Hat Openshift Administrator(DO180 & DO280)
+      - Red Hat System Administration (RH124)
       - ...
 
   - title: Education # Title for the section
@@ -164,7 +164,7 @@ content:
       - Fish-Keeping
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: References via TG handler (Supervisor) Don Charlton Tan @doncharltontan (Colleagues) Tan Wei Jian  @dontcallmelvin , Ananda Lye @ananda_lye, Dorwin Yang @Dorwin, Clement Chua @klemmentieff
 
 # Build settings
