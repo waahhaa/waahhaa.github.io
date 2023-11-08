@@ -59,9 +59,9 @@ content:
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
-          - title:  github.com/STARLAB
+          - title:  github.com/waahhaa
             icon: fab fa-github
-            url: https://github.com/STARLAB1733/starlab-ansible-okd
+            url: https://github.com/waahhaa/ansible-okd-automation
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -90,9 +90,9 @@ content:
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
-          - title:  github.com/STARLAB
+          - title:  github.com/waahhaa
             icon: fab fa-github
-            url: https://github.com/STARLAB1733/starlab-ansible-okd
+            url: https://github.com/waahhaa/ocp-gitops-demo
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -115,9 +115,9 @@ content:
         link: github.com/STARLAB
         # link_text: Project Website
         additional_links:
-          - title:  github.com/STARLAB
+          - title:  github.com/waahhaa
             icon: fab fa-github
-            url: https://github.com/STARLAB1733/starlab-ansible-okd
+            url: https://github.com/waahhaa/ansible-okd-automation
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
