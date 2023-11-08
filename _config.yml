@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello everyone, Anthony here and I'm a DevOps Engineer. I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for junior engineers who wishes to learn more about the field of DevOps.
+  Hello everyone, Anthony here! I am a passionate individual with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable. With a background in software development, I have cultivated a good understanding of the software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing. Regularly, I conduct coaching and training for fellow engineers who wishes to learn more about the field of DevOps.
 
 content:
   - title: Technical Achievements # Title for the section
@@ -67,7 +67,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           1) Automate deployment of Red Hat Openshift Kubernetes Distribution (OKD) Cluster on Production Environment 
-          2) Automate manual deployment of app containers via Helm Charts, resulted to huge deployment time savings and less human error.
+          2) Automate deployment of app containers via Helm Charts, resulted to huge deployment time savings and less human error.
 
         description: | # this will include new lines to allow paragraphs
           OpenShift is a powerful container orchestration platform that enables organizations to manage and deploy containerized applications efficiently. Achieving this in a production environment involves several complex tasks and bring about several benefits, including scalability, reliability, and automation to my organization.
@@ -80,7 +80,7 @@ content:
           - Network Configuration: Configuring the networking components of the cluster, including overlay networks, service meshes, and Ingress controllers, to ensure that applications can communicate efficiently and securely.
           - Continuous Integration and Continuous Deployment (CI/CD): Integrating OpenShift with CI/CD pipelines to automate the deployment of containerized applications. This allows for rapid and reliable application releases.
           - Monitoring and Logging: Implementing monitoring and logging solutions like Prometheus and Grafana to gain visibility into the cluster's health and application performance. Setting up alerting mechanisms to detect and respond to issues proactively.
-          - Disaster Recovery: Establishing backup and disaster recovery processes to ensure data integrity and business continuity in case of catastrophic failures.
+          - Disaster Recovery: Automating the setup of OKD cluster to speed up re-installation of cluster, ensures persistent volume are properly provisioned for data integrity and business continuity in case of catastrophic failures.
           - Rolling Updates and Rollbacks: Implementing strategies for rolling updates and rollbacks of applications to minimize downtime and reduce the impact of potential issues.
           - Scaling and Load Balancing: Implementing auto-scaling for applications and load balancing to handle varying workloads efficiently.
           - Documentation and Knowledge Sharing: Maintaining detailed documentation for the entire OpenShift cluster setup and regularly sharing knowledge with the DevOps team to ensure that everyone is well-informed and can manage the cluster effectively.
