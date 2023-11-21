@@ -134,7 +134,7 @@ content:
   - title: Skill Set & Certification # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am most skilled in DevOps Environment & Tooling such as: <mark>Kubernetes</mark> , <mark>Docker</mark> , <mark>OpenShift Container Platform</mark> , <mark>Ansible</mark> , <mark>ArgoCD</mark> , <mark>Helm</mark> , <mark>Git/tea</mark> , <mark>SonarQube</mark>
+      I am most skilled in DevOps Environment & Tooling such as: <mark>Kubernetes</mark> , <mark>Docker</mark> , <mark>OpenShift</mark> , <mark>Ansible</mark> , <mark>ArgoCD</mark> , <mark>Helm</mark> , <mark>Git/tea</mark> , <mark>SonarQube</mark>
       
       My DevOps Certifications are:
       - GIAC Cloud Security Automation (GCSA)
